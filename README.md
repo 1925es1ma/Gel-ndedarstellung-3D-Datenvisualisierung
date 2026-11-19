@@ -29,8 +29,6 @@ Spike Map:
 <img width="556" height="389" alt="spike_map (1)" src="https://github.com/user-attachments/assets/8a838d08-a0dc-417a-8bf7-f7b0c81317fc" />
 
 
-Wedding 3D/ Local Scenes:
-<img width="506" height="356" alt="Screenshot 2026-11-19 165501" src="https://github.com/user-attachments/assets/699f05b5-f015-457d-93b5-e7eb7092a68c" />
 
 
 Savignyplatz 3D/ Local Scenes:
