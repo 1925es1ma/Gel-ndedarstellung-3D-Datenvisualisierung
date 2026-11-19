@@ -11,6 +11,3 @@ Projekte:
 <img width="726" height="383" alt="Screenshot 2026-11-19 172008" src="https://github.com/user-attachments/assets/9e6454da-9ab0-421a-afd7-08d9ec0c5590" />
 <img width="733" height="385" alt="Screenshot 2026-11-19 171332" src="https://github.com/user-attachments/assets/64bd1748-2758-4158-ae48-2ceaa62ad703" />
 <img width="504" height="386" alt="Screenshot 2026-11-19 181655" src="https://github.com/user-attachments/assets/c1635ee0-4c33-4db9-b5c6-9ecf3022bdf5" />
-<img width="334" height="351" alt="Screenshot 2026-11-19 181627" src="https://github.com/user-attachments/assets/a00e0868-a6da-437c-955f-5234bdf16902" />
-<img width="353" height="502" alt="Screenshot 2026-11-19 185158" src="https://github.com/user-attachments/assets/fee3865f-35e8-4b80-b0b8-a8829847b506" />
-<img width="533" height="385" alt="Screenshot 2026-11-19 173643" src="https://github.com/user-attachments/assets/2357b30f-6b73-472f-89de-fc2f9a1abd5f" />
